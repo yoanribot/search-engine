@@ -1,0 +1,1 @@
+export { default as GlobalStateProvider, useGlobalStateContext } from './GloablStateProvider';
